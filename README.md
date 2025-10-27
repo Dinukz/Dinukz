@@ -20,7 +20,7 @@
 - 💼 **Software Engineer** passionate about performant backends and clean UIs  
 - 🧰 I craft systems with **Laravel & PHP**, design UIs with **HTML/CSS/JavaScript**, and ship cross-platform apps with **Flutter**  
 - 🧪 I enjoy problem-solving in **Java, C#, and C++**  
-- 📦 Love building POS/ERP style apps, REST APIs, dashboards, and automation tools  
+- 📦 Love building POS/ERP-style apps, REST APIs, dashboards, and automation tools  
 - 🎯 Goal: Reliable, scalable, and maintainable software—always
 
 ---
@@ -51,31 +51,6 @@
 
 ---
 
-## 📈 GitHub Stats (Animated)
-
-<div align="center">
-
-<!-- Repo & commit stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" height="160" alt="Stats"/>
-
-<!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&theme=tokyonight" height="160" alt="Top Langs"/>
-
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&date_format=j%20M%5B%20Y%5D" height="180" alt="Streak"/>
-
-</div>
-
----
-
-## 🗺️ Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&area=true" alt="Activity Graph">
-</div>
-
----
-
 ## 🧩 Highlighted Projects
 
 - 🔐 **Secure REST API** with Laravel, Sanctum/JWT, and rate limiting  
@@ -90,8 +65,8 @@
 ## 🤝 Connect
 
 - 📫 **Email:** mohandinuka@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
-- 🌐 **Portfolio:** https://your-portfolio.example.com
+- 💼 **LinkedIn:** https://www.linkedin.com/G.A.M.Dinuka
+<!--- 🌐 **Portfolio:** https://your-portfolio.example.com
 
 ---
 
@@ -101,4 +76,4 @@
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.” — Cory House</i>
-</p>
+</p>-->
