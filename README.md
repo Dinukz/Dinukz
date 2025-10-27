@@ -8,8 +8,8 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge)](#)
-[![GitHub Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge)](#)
-[![Stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge)](#)
+<!--[![GitHub Followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge)](2)
+[![Stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge)]()-->
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <p align="center">
   <!-- Frameworks / Back-end -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="Laravel"/>
+  <img src="[http://www.w3.org/2000/svg" height="40" alt="Laravel"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <!-- Front-end -->
@@ -89,55 +89,12 @@
 
 ## 🤝 Connect
 
-- 📫 **Email:** your.email@example.com  
+- 📫 **Email:** mohandinuka@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/your-link  
 - 🌐 **Portfolio:** https://your-portfolio.example.com
 
 ---
 
-## 🐍 Contribution Snake (Animated)
-
-> Optional but fun! After enabling the GitHub Action below, this will animate your contributions.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
----
-
-### ⚙️ Setup Notes
-
-1. **Make it your profile README**
-   - Create a repo named **`USERNAME/USERNAME`** (must match your GitHub username).
-   - Add a file named `README.md` with this content.
-2. **Fix the placeholders**
-   - Replace every `USERNAME`, email, LinkedIn, and portfolio links.
-3. **Enable the Contribution Snake (optional)**
-   - Create `.github/workflows/snake.yml` in your profile repo with:
-     ```yaml
-     name: Generate Snake
-     on:
-       schedule: [{cron: "0 0 * * *"}]  # daily
-       workflow_dispatch:
-     jobs:
-       build:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: Platane/snk@v3
-             with:
-               github_user_name: USERNAME
-               outputs: |
-                 dist/github-contribution-grid-snake.svg
-           - name: Push snake
-             uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: dist
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-     ```
-   - Then update the image URL above if needed (keep `output` branch).
-4. **Stats not loading?**  
    - These services are public and free. If a card fails to load briefly, just refresh later.
 
 ---
