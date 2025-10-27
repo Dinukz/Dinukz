@@ -65,7 +65,7 @@
 ## 🤝 Connect
 
 - 📫 **Email:** mohandinuka@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/G.A.M.Dinuka
+- 💼 **LinkedIn:** [https://www.linkedin.com/G.A.M.Dinuka](https://www.linkedin.com/in/g-a-m-dinuka-15147b210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 <!--- 🌐 **Portfolio:** https://your-portfolio.example.com
 
 ---
