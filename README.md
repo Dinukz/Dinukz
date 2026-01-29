@@ -43,7 +43,7 @@
 - 🍽️ **Restaurant Management** – Tables, KOT, kitchen display  
 - 📱 **Flutter Apps** – Simple CRUD & reporting apps  
 
-> Live/Org links: [synnexcloud.com](https://synnexcloud.com) · [synnex.lk](https://synnex.lk) · [beldonpos.com](https://beldonpos.com)
+> Live/Org links: [synnexcloud.lk](https://synnexcloud.lk) · [synnex.lk](https://synnex.lk) · [beldonpos.com](https://beldonpos.com)
 
 ---
 
