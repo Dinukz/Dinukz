@@ -1,0 +1,18 @@
+:root { --bg:#080b1a; --card:#131a33cc; --primary:#58f1ff; --accent:#9b5cff; --text:#e9f4ff; }
+*{box-sizing:border-box} body{margin:0;font-family:Segoe UI,system-ui;background:radial-gradient(circle at top,#0e1330,#05070f 65%);color:var(--text);min-height:100vh}
+.bg-grid{position:fixed;inset:0;background-image:linear-gradient(#1a245022 1px,transparent 1px),linear-gradient(90deg,#1a245022 1px,transparent 1px);background-size:32px 32px;pointer-events:none;z-index:-1;animation: drift 12s linear infinite}
+@keyframes drift{from{transform:translateY(0)}to{transform:translateY(32px)}}
+.navbar{display:flex;justify-content:space-between;align-items:center;padding:1rem 2rem;position:sticky;top:0;z-index:9}
+.glass{backdrop-filter:blur(10px);background:#0e1530a8;border-bottom:1px solid #ffffff20}
+.logo{font-weight:800;color:white;text-decoration:none;font-size:1.3rem}.logo span{color:var(--primary)}
+.nav-links a{color:#c8d6ff;text-decoration:none;margin-left:1rem}.nav-links a:hover{color:var(--primary)}
+.container{padding:2rem;max-width:1100px;margin:0 auto}
+.hero,.card{background:var(--card);border:1px solid #ffffff22;border-radius:18px;padding:1.4rem;box-shadow:0 8px 28px #0000003b;margin-bottom:1rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:1rem}
+h1,h2,h3{margin-top:0}.badge{padding:.2rem .6rem;border-radius:10px;background:#58f1ff33;color:#8ff8ff}
+form{display:grid;gap:.7rem}.input,select,textarea,button{padding:.72rem;border-radius:10px;border:1px solid #ffffff2a;background:#0a1126;color:var(--text)}
+button{background:linear-gradient(90deg,var(--primary),var(--accent));border:none;color:#05070f;font-weight:700;cursor:pointer}
+button:hover{filter:brightness(1.1)}
+.alert{padding:.7rem;border-radius:12px;margin:.5rem 0}.error{background:#ff4d6d2e;border:1px solid #ff4d6d66}.success{background:#39ff8a1f;border:1px solid #39ff8a66}
+.table{width:100%;border-collapse:collapse}.table th,.table td{border-bottom:1px solid #ffffff1f;padding:.6rem;text-align:left}
+.small{font-size:.86rem;color:#aec2e5}
