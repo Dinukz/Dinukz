@@ -67,7 +67,7 @@
 
 ---
 
-<!--### 🐍 Contribution Snake (Animated)
+### 🐍 Contribution Snake (Animated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dinukz/Dinukz/output/grid-snake.svg" alt="snake animation"/>
 </p>
@@ -77,13 +77,11 @@
 > 2) Add a GitHub Action that builds the snake to the `output` branch.  
 > 3) Keep the image link above as is; it will auto-render once the action runs.
 
----
--->
+
 ### 📨 Get in Touch
 - Email: **mohandinuka2001@gmail.com**  
-- WhatsApp: **+94 77 465 3235**  
+
 - GitHub: **[@Dinukz](https://github.com/Dinukz)**
 
 ---
 
-<p align="center">Made with ❤️ and a focus on performance, security, and clean code.</p>
