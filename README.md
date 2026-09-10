@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:mohandinuka2001@gmail.com"><img src="https://img.shields.io/badge/Email-mohandinuka2001%40gmail.com-red?logo=gmail"></a>
-  <a href="https://wa.me/+94774653235"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?logo=whatsapp&logoColor=white"></a>
+  
   <a href="https://github.com/Dinukz"><img src="https://komarev.com/ghpvc/?username=Dinukz&style=flat&label=Profile+views"></a>
   <a href="https://github.com/Dinukz?tab=followers"><img src="https://img.shields.io/github/followers/Dinukz?style=flat"></a>
 </p>
