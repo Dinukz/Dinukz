@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 GitHub Analytics (Auto-Updating)
+<!--### 📊 GitHub Analytics (Auto-Updating)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinukz" alt="streak stats" />
 </p>
@@ -67,7 +67,7 @@
 
 ---
 
-<!--### 🐍 Contribution Snake (Animated)
+### 🐍 Contribution Snake (Animated)
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dinukz/Dinukz/output/grid-snake.svg" alt="snake animation"/>
 </p>
