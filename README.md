@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Dinukz">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=900&color=00C896&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer;PHP+%7C+Laravel+%7C+MySQL+%7C+Flutter+(Dart);Building+Cloud+POS%2C+ERP%2C+CRM%2C+E-commerce;Clean+code+%E2%80%A2+Performance+%E2%80%A2+Great+DX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&pause=900&color=00C896&center=true&vCenter=true&width=700&lines=Software+Engineer;PHP+%7C+Laravel+%7C+MySQL+%7C+Flutter+(Dart);Building+Cloud+POS%2C+ERP%2C+CRM%2C+E-commerce;Clean+code+%E2%80%A2+Performance+%E2%80%A2+Great+DX" alt="Typing SVG" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ### 👨‍💻 About Me
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 💼 **Junior Software Engineer** building business software end to end — from database design to deployment
+- 💼 ** Software Engineer** building business software end to end — from database design to deployment
 - 🎓 Studying **B.Sc. (Hons) in Software Engineering**
 - 🔭 Currently working on **Cloud POS**, **ERP**, **CRM**, **LMS** and **E-commerce** solutions
 - 🌱 Learning more about **Laravel performance**, **Redis caching**, **REST API design** and **DevOps basics**
