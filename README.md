@@ -1,3 +1,8 @@
+<!-- Animated Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0D1117&height=200&section=header&text=Mohan%20Dinuka&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+</p>
+
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Mohan Dinuka <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/></h1>
 
@@ -16,6 +21,8 @@
 ---
 
 ### 👨‍💻 About Me
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 💼 **Junior Software Engineer** building business software end to end — from database design to deployment
 - 🎓 Studying **B.Sc. (Hons) in Software Engineering**
 - 🔭 Currently working on **Cloud POS**, **ERP**, **CRM**, **LMS** and **E-commerce** solutions
@@ -23,6 +30,8 @@
 - 🤝 Open to **freelance projects** and collaborations
 - 💬 Ask me about **PHP/Laravel, MySQL, Ajax, Flutter (Dart), WordPress**
 - ⚡ Fun fact: I love keeping UIs the same when users are already trained — **consistency > confusion** 😄
+
+<br clear="right"/>
 
 ---
 
@@ -80,14 +89,28 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dinukz&theme=github-compact" alt="Activity Graph" />
 </p>
 
+-->
+
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dinukz/Dinukz/output/grid-snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dinukz/Dinukz/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dinukz/Dinukz/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Dinukz/Dinukz/output/github-snake.svg" />
+  </picture>
 </p>
--->
+
+---
 
 ### 📨 Get in Touch
 - 📧 Email: **[mohandinuka2001@gmail.com](mailto:mohandinuka2001@gmail.com)**
 - 🐙 GitHub: **[@Dinukz](https://github.com/Dinukz)**
 
-<p align="center"><i>Thanks for visiting! ⭐ Feel free to explore my repositories.</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%E2%AD%90;Feel+free+to+explore+my+repositories;Let's+build+something+great+together+%F0%9F%9A%80" alt="Footer typing" />
+</p>
+
+<!-- Animated Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C896&height=120&section=footer" width="100%"/>
+</p>
