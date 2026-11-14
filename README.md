@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0D1117&height=200&section=header&text=Mohan%20Dinuka&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,100:0D1117&height=200&section=header&text=Mohan%20Dinuka&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Engineer&descAlignY=58&descSize=20" width="100%"/>
 </p>
 
 <!-- Profile Header -->
